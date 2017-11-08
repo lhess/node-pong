@@ -133,8 +133,6 @@ Ball.prototype.updatePosition = function(playerOne, playerTwo) {
 };
 
 /**
- * Gibt die aktullen Koordinaten des Balls zurueck.
- *
  * @returns {Array}
  */
 Ball.prototype.getCoordinates = function() {
